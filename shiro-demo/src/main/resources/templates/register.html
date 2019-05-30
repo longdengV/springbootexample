@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>注册页面</title>
+</head>
+<body>
+    这是一个注册页面，不要拦截我哦！
+    <form action="/register" method="post">
+        用户名：<input type="text" name="username" /><br>
+        密码：<input type="password" name="password"/><br>
+        角色：<input type="text" name="roles"><br>
+        <input type="submit" value="提交">
+    </form>
+
+    <div th:text="${msg}"></div>
+</body>
+</html>
