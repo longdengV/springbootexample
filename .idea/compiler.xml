@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="redis-demo" />
         <module name="redis-demo2" />
+        <module name="shiro-demo" />
         <module name="springbootexample" />
       </profile>
     </annotationProcessing>

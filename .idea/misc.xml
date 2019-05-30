@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/../springbootexample/pom.xml" />
         <option value="$PROJECT_DIR$/../springbootexample/redis-demo/pom.xml" />
         <option value="$PROJECT_DIR$/../springbootexample/redis-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootexample/shiro-demo/pom.xml" />
       </list>
     </option>
   </component>
