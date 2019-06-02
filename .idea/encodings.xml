@@ -2,6 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../springbootexample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/bnaio" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/ioc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/lfi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/nginx" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo/src/main/resources/sql/create_sql.sql" charset="GBK" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo2" charset="UTF-8" />

@@ -6,6 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bnaio" />
+        <module name="ioc" />
+        <module name="lfi" />
+        <module name="nginx" />
         <module name="redis-demo" />
         <module name="redis-demo2" />
         <module name="shiro-demo" />
