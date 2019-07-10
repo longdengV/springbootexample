@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cee4e53-f378-4997-a847-18967b3acbc6" name="Default" comment="">
+    <list default="true" id="7cee4e53-f378-4997-a847-18967b3acbc6" name="Default" comment="测试nginx的用法">
       <change beforePath="$PROJECT_DIR$/../springbootexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootexample/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/pagehelper/target/" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../springbootexample/maven-zhenziyun/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="513">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -87,7 +87,7 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../springbootexample" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -209,32 +209,6 @@
             <path>
               <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="springbootexample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexample" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-zhenziyun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexample" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-zhenziyun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexample" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-zhenziyun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootexample" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-zhenziyun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -527,7 +501,7 @@
       <workItem from="1562466588844" duration="588000" />
       <workItem from="1562555961109" duration="684000" />
       <workItem from="1562570654585" duration="3792000" />
-      <workItem from="1562724392703" duration="1167000" />
+      <workItem from="1562724392703" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="shiro练习">
       <created>1559225294479</created>
@@ -564,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559488088329</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试nginx的用法">
+      <created>1562725744212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562725744212</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -600,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110635000" />
+    <option name="totallyTimeSpent" value="111767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
@@ -622,11 +603,11 @@
       <window_info id="Image Layers" order="1" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32816902" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" sideWeight="0.49865952" weight="0.32863188" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49865952" weight="0.32863188" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.2690141" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32863188" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.4512894" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49718308" visible="true" weight="0.2613941" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49718308" visible="true" weight="0.2613941" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
       <window_info id="Web" order="7" sideWeight="0.5019157" side_tool="true" weight="0.25268096" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2521127" />
@@ -1087,8 +1068,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../springbootexample/maven-zhenziyun/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="513">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
