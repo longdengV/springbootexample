@@ -5,10 +5,17 @@
     <file url="file://$PROJECT_DIR$/../springbootexample/bnaio" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/ioc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/lfi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/maven-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/maven-zhenziyun" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/nginx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/pagehelper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo/src/main/resources/sql/create_sql.sql" charset="GBK" />
     <file url="file://$PROJECT_DIR$/../springbootexample/redis-demo2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/redis_login" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../springbootexample/shiro-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/spring-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/springboot-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootexample/springboot-rabbitmq" charset="UTF-8" />
   </component>
 </project>

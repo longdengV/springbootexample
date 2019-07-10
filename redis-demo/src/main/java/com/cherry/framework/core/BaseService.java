@@ -5,7 +5,6 @@ import com.cherry.framework.core.model.DBMappingProperty;
 import com.cherry.framework.core.model.Page;
 import com.cherry.framework.core.model.PageSort;
 import com.cherry.framework.core.rowmapper.ADBeanPropertyRowMapper;
-import oracle.sql.TIMESTAMP;
 import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

@@ -9,11 +9,17 @@
         <module name="bnaio" />
         <module name="ioc" />
         <module name="lfi" />
+        <module name="maven-quartz" />
+        <module name="maven-rabbitmq" />
+        <module name="maven-zhenziyun" />
         <module name="nginx" />
+        <module name="pagehelper" />
         <module name="redis-demo" />
         <module name="redis-demo2" />
+        <module name="redis_login" />
         <module name="shiro-demo" />
-        <module name="springbootexample" />
+        <module name="spring-rabbitmq" />
+        <module name="springboot-quartz" />
       </profile>
     </annotationProcessing>
   </component>

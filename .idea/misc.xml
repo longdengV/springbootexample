@@ -11,7 +11,11 @@
         <option value="$PROJECT_DIR$/lfi/pom.xml" />
         <option value="$PROJECT_DIR$/bnaio/pom.xml" />
         <option value="$PROJECT_DIR$/ioc/pom.xml" />
-        <option value="$PROJECT_DIR$/../springbootexample/nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/redis_login/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootexample/spring-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootexample/springboot-quartz/pom.xml" />
       </list>
     </option>
   </component>
